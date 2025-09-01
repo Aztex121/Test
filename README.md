@@ -1,3 +1,6 @@
+![inbound3880454286634502417](https://github.com/user-attachments/assets/f44b0105-459a-4608-9c33-6b06793e344b)
+![inbound638746895475836533](https://github.com/user-attachments/assets/43fc245a-c2d0-456a-a845-d3d85df22277)
+![inbound3739797389973257885](https://github.com/user-attachments/assets/3f6637ed-0550-4aa7-bd5a-1724160948f0)
 # Financial AI Prototype – StatelessStates
 
 Exploring intersections of **AI**, **Finance**, and **Quantum Computing**.  
