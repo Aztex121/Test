@@ -1,7 +1,7 @@
 ![inbound3880454286634502417](https://github.com/user-attachments/assets/f44b0105-459a-4608-9c33-6b06793e344b)
 ![inbound638746895475836533](https://github.com/user-attachments/assets/43fc245a-c2d0-456a-a845-d3d85df22277)
 ![inbound3739797389973257885](https://github.com/user-attachments/assets/3f6637ed-0550-4aa7-bd5a-1724160948f0)
-# 📂 StatelessStates – Financial AI Prototype  
+# StatelessStates – Financial AI Prototype  
 
 **Exploring intersections of AI, Finance, and Quantum Computing.**  
 
@@ -33,7 +33,7 @@ This prototype demonstrates:
 
 ---
 
-## 🔮 Next Steps  
+## Next Steps  
 - Scale to larger datasets  
 - Integrate **Qiskit** quantum simulations  
 - Extend to **QuantLib** financial pricing models  
@@ -41,4 +41,4 @@ This prototype demonstrates:
 
 ---
 
-📌 *Part of the **StatelessStates™** R&D initiative into AI + Finance + Quantum intersections.*
+*Part of the **StatelessStates™** R&D initiative into AI + Finance + Quantum intersections.*
