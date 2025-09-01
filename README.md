@@ -10,33 +10,44 @@ This prototype demonstrates machine learning training, predictive modeling, and 
 
 ## Prototype Results
 
-### 1. Training Loss Curve
-![Training Loss](results/loss_curve.png)
+## 📂 StatelessStates – Financial AI Prototype  
 
-*Model converges quickly, reaching low MSE.*
+**Exploring intersections of AI, Finance, and Quantum Computing.**  
 
----
-
-### 2. True vs Predicted
-![True vs Predicted](results/true_vs_pred.png)
-
-*Demonstrates accurate regression fit on synthetic test data.*
+This prototype demonstrates:  
+- Machine learning training & convergence  
+- Predictive modeling (true vs predicted regression fit)  
+- Integration of **real-world financial data** (Apple stock, 6 months)  
+- A foundation for **quantum-AI finance simulations**  
 
 ---
 
-### 3. Financial Data Example (AAPL, 6mo)
-![AAPL Stock](results/aapl_6mo.png)
+## 📊 Prototype Results  
 
-*Integration of real-world stock market data (Apple Inc.).*
+### 1. Training Loss Curve  
+![Training Loss](images/training_loss.png)  
+*Model converges quickly, reaching low MSE.*  
 
 ---
 
-## Next Steps
+### 2. True vs Predicted  
+![True vs Predicted](images/true_vs_predicted.png)  
+*Demonstrates accurate regression fit on synthetic test data.*  
+
+---
+
+### 3. Financial Data Example (AAPL, 6mo)  
+![AAPL Stock](images/aapl_stock.png)  
+*Integration of real-world stock market data (Apple Inc.).*  
+
+---
+
+## 🔮 Next Steps  
 - Scale to larger datasets  
-- Integrate Qiskit quantum simulations  
-- Extend to QuantLib financial pricing models  
-- Package into modular pipelines for deployment  
+- Integrate **Qiskit** quantum simulations  
+- Extend to **QuantLib** financial pricing models  
+- Package into **modular pipelines for deployment**  
 
 ---
 
- *Part of the **StatelessStates** R&D initiative into AI + Finance + Quantum intersections.*
+📌 *Part of the **StatelessStates™** R&D initiative into AI + Finance + Quantum intersections.*
